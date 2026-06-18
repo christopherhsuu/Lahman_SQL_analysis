@@ -18,7 +18,7 @@ ORDER BY b.HR DESC;
 
 **Results:**
 
-| First | Last | Year | HR | RBI | AVG |
+| FirstName | Last | Year | HR | RBI | AVG |
 |-------|------|------|----|-----|-----|
 | Babe | Ruth | 1927 | 60 | 164 | .356 |
 | Babe | Ruth | 1921 | 59 | 171 | .378 |
